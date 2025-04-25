@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
                 href="#projects" 
                 className="px-6 py-3 bg-orange-600 text-white rounded-md hover:bg-orange-700 transition-colors flex items-center"
               >
-                View My Work <ArrowDown size={18} className="ml-2" />
+                projects <ArrowDown size={18} className="ml-2" />
               </a>
               <a 
                 href="/resume.pdf" 
